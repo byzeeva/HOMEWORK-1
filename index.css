@@ -1,0 +1,12 @@
+html {
+    font-family: Roboto,sans-serif;
+}
+h1{
+    color: darkcyan;
+    margin-bottom: 0.25em;
+}
+
+h2{
+    color: darkcyan;
+    font-size: 1.2em;
+}
