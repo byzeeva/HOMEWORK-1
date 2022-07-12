@@ -14,15 +14,15 @@ h2{
 }
 h3{
     color: darkcyan;
-    margin-top: 55px;
+    margin-top: 20px;
 }
 
 img{
     width: 200px;
     border-radius: 10px;
     float: right;
-    margin-top: -100px;
-    margin-right: 50px;
+    margin-top: -130px;
+    margin-right: 70px;
 }
 a{
     color: darkcyan;
@@ -49,8 +49,11 @@ a{
     min-width: 185px;
     margin-bottom: 1em;
 }
-.studies{
-    float: right;
-    margin-top: -640px;
-    margin-right: 50px;
+
+button{
+    font-size: 12pt;
+    margin-bottom: 10px;
+}
+html{
+    margin-left: 5px;
 }
