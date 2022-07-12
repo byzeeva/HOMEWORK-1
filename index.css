@@ -9,4 +9,33 @@ h1{
 h2{
     color: darkcyan;
     font-size: 1.2em;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+h3{
+    color: darkcyan;
+}
+a{
+    color: darkcyan;
+}
+.contacts{
+    margin-bottom: 2em;
+}
+.contact{
+    display:flex;	
+	
+}
+.contact_type {
+    min-width: 90px;
+}
+.experience {
+    display: flex;
+    margin-bottom:2em ;
+}
+.experience_name {
+    font-weight: bold;
+}
+.experience_date{
+    min-width: 185px;
+    margin-bottom: 1em;
 }
