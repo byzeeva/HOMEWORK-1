@@ -14,6 +14,15 @@ h2{
 }
 h3{
     color: darkcyan;
+    margin-top: 55px;
+}
+
+img{
+    width: 200px;
+    border-radius: 10px;
+    float: right;
+    margin-top: -100px;
+    margin-right: 50px;
 }
 a{
     color: darkcyan;
@@ -27,6 +36,7 @@ a{
 }
 .contact_type {
     min-width: 90px;
+    margin-bottom: 20px;
 }
 .experience {
     display: flex;
@@ -38,4 +48,9 @@ a{
 .experience_date{
     min-width: 185px;
     margin-bottom: 1em;
+}
+.studies{
+    float: right;
+    margin-top: -640px;
+    margin-right: 50px;
 }
